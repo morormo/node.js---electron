@@ -6,7 +6,7 @@
   "author": "Morormo <morormo@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "electron": "5.0.6"
+    "electron": "11.5.0"
   },
   "scripts": {
     "start": "electron ./app/index.html"
